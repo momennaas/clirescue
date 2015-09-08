@@ -55,7 +55,7 @@ Your first step might be to store the user token on the drive so next time the p
 * Understanding Go path's system might be a bit tricky at first.
 * Forking the repo might affect your import statements.
 * The original author might not have made a good use of packages.
-* You more thna likely have some OOP experience, you might want to
+* You more than likely have some OOP experience, you might want to
   leverage it in this exercise.
 * Checkout the `init` function.
 * Curious about how a 3rd party lib works? Try go doc.
